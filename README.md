@@ -4,4 +4,4 @@
 
 Технологии использованные в проекте: HTML, CSS.
 
-Рабочая версия по ссылке: https://ngagara.github.io/learntolearn/
+Рабочая версия по ссылке: https://ngagara.github.io/learn-to-learn/
