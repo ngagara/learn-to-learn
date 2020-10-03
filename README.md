@@ -2,4 +2,6 @@
 
 Первый опыт в верстке. version 0.0.1
 
+Технологии использованные в проекте: HTML, CSS.
+
 Рабочая версия по ссылке: https://ngagara.github.io/learntolearn/
